@@ -31,7 +31,7 @@ For details on how to use this package, check out our [documentation](.docs).
 
 ## Versions
 
-| State  | Version  - | Branch | PHP  |
+| State  | Version    | Branch | PHP  |
 |--------|------------|--------|------|
 | dev    | ~3.0.0     | master | ^7.2 |
 | stable | ~2.0.0     | master | ^7.2 |

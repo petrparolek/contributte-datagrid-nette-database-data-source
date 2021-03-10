@@ -13,7 +13,6 @@
  */
 public $ndb;
 
-
 public function createComponentNetteGrid($name)
 {
 	/**
